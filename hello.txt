@@ -1,1 +1,86 @@
-hello
+
+﻿Dette studie laves af Dansk Bryst Cancer Gruppe (DBCG) og DBCG Radioterapi (RT) Udvalg. Studiet
+er nationalt og hører under Kræftens Bekæmpelses Center for Stråleonkologi samt under Danish
+Comprehensive Cancer Center (DCCC). I DK har der de seneste år været massiv satsning på RT, og
+nærværende studie bliver internationalt helt unikt. Der er nu mulighed for at samle et enormt antal
+konsekutive, homogent behandlede stråleplaner fra en hel nation i en national dosisplanbank ved navn
+CIRRO databasen (Center for Interventional Research in Radiation Oncology). Derpå kan laves
+kvalitetssikring og udvikling af moderne strålebehandling i hidtil uset omfang. DBCG ser sig forpligtet til
+at udnytte de enestående danske muligheder, og DBCG har derfor ønske om at lave følgende projekt:
+DBCG RT Nation studiet.
+
+
+Brystkræft rammer >4800 kvinder i DK årligt, og langt hovedparten af dem får strålebehandling. I
+perioden 2008-2017 har 12.000 patienter (ptt) fået strålebehandling af brystregion og lymfeknuder pga
+brystkræft, og samtlige stråleplaner fra dem incl CT scanninger, indtegnede målorganer og
+stråledosis-fordelinger vil blive indsamlet i CIRRO databasen. Samtlige ptt er registreret i DBCG
+databasen vedr patient, tumor og behandlingskarakteristika (mht stråler vides kun, at der er givet
+stråler, tidspunkt og dosis). Der skal udføres forskning med de nyeste computerbaserede metoder på
+dem i følgende delprojekter:
+1) Nationalt fase IV studie, hvor der laves kvalitetssikring af ændringen i retningslinie for
+strålebehandling som skete i 2014 pba DBCG RT IMN studiet. Det betød, at alle høj-risiko ptt skulle
+have de parasternale lymfeknuder medbestrålet ved bryst strålebehandling. Der undersøges om DBCG
+retningslinier for udvælgelse af ptt overholdes, samt strålekvaliteten i planerne. Der foretages
+bivirkningsregistrering på 600 ptt, som kommer til rutineopfølgning 3-4 år efter strålebehandling, og
+data sammenlignes med tilsvarende ptt inkluderet i DBCG HYPO II trial, fordi ptt i det studie også får
+loco-regional strålebehandling og samme registrering.
+2) Udvikling og validering af hypoteser om gavn og skade af strålebehandling. Nyligt er lavet et
+pilotstudie, hvor tilstedeværelse af forkalkninger i hjertets kranspulsårer vurderet på bryst-stråleplaner
+kan forudsige patientens risiko for senere blodprop i hjertet. Derfor skal nu undersøges kalkscore i
+kranspulsårerne på alle 12.000 stråleplaner mhp om stråledosis til et hjerte med forkalkninger
+yderligere forværrer risikoen for blodprop.
+3) Optimering af retningslinier for moderne strålebehandling. Op mod 5% af brystkræft ptt, som får
+strålebehandling, har anatomiske forhold, som hindrer en optimal stråleplan, sædvanligvis pga for høj
+dosis til normalvæv (hjerte/lunge). Disse ptt behandles med nye stråleteknikker, som sikrer en bedre
+stråleplan, men det koster mere lav dosis til et større lungevolumen end med standardteknikken. Ingen
+data kan vise, om det på længere sigt øger patientens risiko for lungesygdom. Det skal undersøges ved
+at undersøge hyppighed af lungesymptomer blandt ptt behandlet med en del spredt dosis i forhold til
+patienter behandlet med standard teknik.
+
+
+
+
+
+
+
+
+Overordnet mål med projektet (dansk) ...
+12.000 stråleplaner fra brystkræft patienter 2008-2017 samles. Med nyeste computersystemer og
+objektive undersøgelser laves kvalitetssikring af strålebehandling mht om DBCG retningslinier følges,
+udvikling af strålebivirkninger, og stråleteknik. Der undersøges kalk i hjertet mht stråle-relateret risiko
+for hjertesygdom. Der undersøges betydning af lungedosis.
+
+
+‘
+Beskrivelse af hvor projektet placerer sig i forhold til eksisterende viden/tiltag, og hvad projektet
+kan bidrage med (dansk) ...
+De fleste af danske brystkræft patienter (ptt) får radioterapi (RT) efter operation mhp at reducere
+risikoen for tilbagefald. I perioden 2008-2017 har 12.000 ptt fået RT, og i de 10 år er der sket få
+ændringer i den øvrige behandling, så gruppen er homogent behandlet.
+De 12.000 RT planer skal indsamles i en dosisplanbank, og kan derpå bruges til
+1) kvalitetssikring af RT via fase IV studie,
+2) at udvikle og teste hypoteser for effekt af RT, og
+3) at opdatere moderne planlægning af RT.
+Indsamlingen af alle RT planerne åbner helt nye perspektiver for forskning i RT.
+Med planerne laves flg:
+Ad 1: kvalitetssikring af patient udvælgelse til RT, af RT planerne samt udviklingen af bivirkninger.
+Ad 2: Et pilotstudie har vist, at kalk-indhold i hjertet på brystkræft RT planen øger risiko for
+hjerteblodprop. Hypotesen undersøges, og det undersøges om hjertenær RT potenserer risikoen for
+hjertesygdom, hvis kalk er til stede.
+Ad 3: Op mod 5% af de 12.000 ptt forventes behandlet med invers RT pga vanskelige anatomiske
+udfordringer. Inverse teknikker belaster lungerne på en anden måde end standard teknik, da de giver
+en stor del af lungerne en lav stråledosis (lav-dosis-bad til meget lungevæv). Der er ingen data på,
+hvad det kan give af følger på lungerne. Inverse teknikker forventes i øget brug, fordi DBCG i 2018
+starter et randomiseret studie til ptt opereret med brystrekonstruktion og med behov for RT, og pga
+anatomiske udfordringer ved rekonstruktioner vil inverse teknikker ofte anvendes. Det haster derfor
+med at undersøge sikkerheden af den lave dosis til et stort lungevolumen.
+Beskrivelse af de opgaver som skal løses for at nå projektets mål (dansk) ...
+1) Udvikle metode for hurtig overførsel af CT scans med indtegninger og stråleplan til CIRRO
+databasen.
+2) Oprette homogen navngivning af strukturer, så RT dosis automatisk kan hentes fra planerne.
+3) Udvikle metode for automatisk aflæsning af kalk og stråledosis i hjertet/lungerne.
+4) Aflæse V5 lunge og identificere ptt med lav stråledosis i stort lungevolumen. I case-control studie
+undersøges betydning af lungedosis via patient spørgeskema om lungesymptomer, tidligere
+lungesygdom og rygestatus.
+5) Udvikle PROM for senfølger til RT.
+6) Loco-regional morbiditetsregistrering
